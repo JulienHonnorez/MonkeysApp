@@ -1,0 +1,7 @@
+C:\Users\Julien\source\repos\MonkeysApp\bin\Debug\MonkeysApp.exe.config
+C:\Users\Julien\source\repos\MonkeysApp\bin\Debug\MonkeysApp.exe
+C:\Users\Julien\source\repos\MonkeysApp\bin\Debug\MonkeysApp.pdb
+C:\Users\Julien\source\repos\MonkeysApp\obj\Debug\MonkeysApp.csprojAssemblyReference.cache
+C:\Users\Julien\source\repos\MonkeysApp\obj\Debug\MonkeysApp.csproj.CoreCompileInputs.cache
+C:\Users\Julien\source\repos\MonkeysApp\obj\Debug\MonkeysApp.exe
+C:\Users\Julien\source\repos\MonkeysApp\obj\Debug\MonkeysApp.pdb
